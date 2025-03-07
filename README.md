@@ -1,5 +1,4 @@
-# data_analysis
-# Python Insights - Analisando Dados com Python
+# Analisando Dados com Python
 
 ## Case - Cancelamento de Clientes
 
